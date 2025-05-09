@@ -1,5 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Color Game - README</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 40px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1 {
+      color: #FF69B4;
+    }
+    code {
+      background-color: #eee;
+      padding: 2px 6px;
+      border-radius: 4px;
+    }
+    pre {
+      background-color: #eee;
+      padding: 10px;
+      border-radius: 4px;
+      overflow-x: auto;
+    }
+    hr {
+      margin: 30px 0;
+    }
+  </style>
+</head>
 <body>
 
   <h1>🎨 Color Game</h1>
@@ -37,4 +67,22 @@
   <h2>✨ Features</h2>
   <ul>
     <li>User-friendly GUI with colorful design</li>
-    <li>Timer and scoring
+    <li>Timer and scoring system</li>
+    <li>Responsive layout with centered window</li>
+    <li>Real-time feedback for correct answers</li>
+  </ul>
+
+  <hr>
+
+  <h2>🛠️ To Do / Future Improvements</h2>
+  <ul>
+    <li>Add sound feedback for correct/incorrect answers</li>
+    <li>Show final score popup</li>
+    <li>High score tracking</li>
+    <li>Difficulty levels</li>
+  </ul>
+
+  <hr>
+
+</body>
+</html>
