@@ -1,56 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Color Game - README</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 40px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1 {
+      color: #FF69B4;
+    }
+    code {
+      background-color: #eee;
+      padding: 2px 6px;
+      border-radius: 4px;
+    }
+    pre {
+      background-color: #eee;
+      padding: 10px;
+      border-radius: 4px;
+      overflow-x: auto;
+    }
+    hr {
+      margin: 30px 0;
+    }
+  </style>
+</head>
+<body>
 
+  <h1>🎨 Color Game</h1>
+  <p>
+    A fun and simple color recognition game built using Python and Tkinter.<br>
+    Test your brain's speed by typing the <strong>color</strong> of the word shown — not the word itself!
+  </p>
 
-````
-# 🎨 Color Game
+  <hr>
 
-A fun and simple color recognition game built using Python and Tkinter.  
-Test your brain's speed by typing the **color** of the word shown—not the word itself!
+  <h2>🕹️ How to Play</h2>
+  <ul>
+    <li>Click <strong>"Start New Game"</strong> to begin.</li>
+    <li>A word will appear in a random color.</li>
+    <li><strong>Type the name of the color</strong> used to <strong>display</strong> the word, not the word itself.</li>
+    <li>Click <strong>"Submit"</strong> to check your answer.</li>
+    <li>You have 30 seconds to score as many points as possible!</li>
+  </ul>
 
----
+  <hr>
 
-## 🕹️ How to Play
+  <h2>📦 Requirements</h2>
+  <ul>
+    <li>Python 3.x</li>
+    <li>Tkinter (usually comes pre-installed with Python)</li>
+  </ul>
 
-- Click **"Start New Game"** to begin.
-- A word will appear in a random color.
-- **Type the name of the color** used to **display** the word, not the word itself.
-- Click **"Submit"** to check your answer.
-- You have 30 seconds to score as many points as possible!
+  <hr>
 
----
+  <h2>🚀 Run the Game</h2>
+  <pre><code>python color_game.py</code></pre>
 
-## 📦 Requirements
+  <hr>
 
-- Python 3.x  
-- Tkinter (usually comes pre-installed with Python)
+  <h2>📸 Screenshot</h2>
+  <p><em>(You can insert a screenshot here after taking one)</em></p>
 
----
+  <hr>
 
-## 🚀 Run the Game
-
-```bash
-python color_game.py
-````
-
----
-
-## 📸 Screenshot
-
-*(You can insert a screenshot here after taking one)*
-
----
-
-## ✨ Features
-
-* User-friendly GUI with colorful design
-* Timer and scoring system
-* Responsive layout with centered window
-* Real-time feedback for correct answers
-
----
-
-## 🛠️ To Do / Future Improvements
-
-* Add sound feedback for correct/incorrect answers
-* Show final score popup
-* High score tracking
-* Difficulty levels
+  <h2>✨ Features</h2>
+  <ul>
+    <li>User-friendly GUI with colorful design</li>
+    <li>Timer and scoring
