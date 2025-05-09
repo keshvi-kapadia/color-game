@@ -1,35 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Color Game - README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 40px;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1 {
-      color: #FF69B4;
-    }
-    code {
-      background-color: #eee;
-      padding: 2px 6px;
-      border-radius: 4px;
-    }
-    pre {
-      background-color: #eee;
-      padding: 10px;
-      border-radius: 4px;
-      overflow-x: auto;
-    }
-    hr {
-      margin: 30px 0;
-    }
-  </style>
-</head>
 <body>
 
   <h1>🎨 Color Game</h1>
@@ -61,11 +31,6 @@
 
   <h2>🚀 Run the Game</h2>
   <pre><code>python color_game.py</code></pre>
-
-  <hr>
-
-  <h2>📸 Screenshot</h2>
-  <p><em>(You can insert a screenshot here after taking one)</em></p>
 
   <hr>
 
