@@ -1,35 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Color Game - README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 40px;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1 {
-      color: #FF69B4;
-    }
-    code {
-      background-color: #eee;
-      padding: 2px 6px;
-      border-radius: 4px;
-    }
-    pre {
-      background-color: #eee;
-      padding: 10px;
-      border-radius: 4px;
-      overflow-x: auto;
-    }
-    hr {
-      margin: 30px 0;
-    }
-  </style>
-</head>
 <body>
 
   <h1>🎨 Color Game</h1>
